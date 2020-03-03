@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "nodemon": "^2.0.2"
+  },
+  "devDependencies": {
+    "css-loader": "^3.4.2"
   }
 }
