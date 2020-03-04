@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^2.0.2"
+    "nodemon": "^2.0.2",
+    "query-string": "^6.11.1"
   },
   "devDependencies": {
     "css-loader": "^3.4.2"
